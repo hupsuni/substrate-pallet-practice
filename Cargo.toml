@@ -4,7 +4,7 @@ description = 'FRAME pallet template.'
 edition = '2018'
 homepage = 'https://substrate.dev'
 license = 'Unlicense'
-name = 'test-paltet'
+name = 'test-pallet'
 repository = 'https://github.com/hupsuni/substrate-pallet-practice/'
 version = '3.0.0'
 
